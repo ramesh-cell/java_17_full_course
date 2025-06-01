@@ -1,4 +1,4 @@
-package test.demov1.carrier_test.mqtt;
+package com.carrier_test.mqtt;
 
 public class N2Protocol {
     public static void main(String[] args) {

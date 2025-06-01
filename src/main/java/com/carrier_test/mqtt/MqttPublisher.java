@@ -1,4 +1,4 @@
-package test.demov1.carrier_test.mqtt;
+package com.carrier_test.mqtt;
 
 import io.smallrye.mutiny.Uni;
 import io.vertx.mqtt.MqttClient;

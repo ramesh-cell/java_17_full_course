@@ -1,9 +1,9 @@
-package test.demov1;
+package com.interview_questions;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class MainTest {
+public class NetCrackerPrintNumericNumbersTest {
 
 
     public static void main(String[] args) {

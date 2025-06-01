@@ -1,4 +1,4 @@
-package test.demov1.carrier_test;
+package com.carrier_test;
 
 import java.util.Random;
 import java.util.concurrent.Executors;
