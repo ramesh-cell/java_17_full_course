@@ -1,10 +1,6 @@
 package com.demo.test;
 
-import java.util.Arrays;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-
-public class Labstest {
+public class Value_Labs_ReverseString {
 
     public static void main(String[] args) {
        // input : value labs org

@@ -1,9 +1,8 @@
 package com.demo.test;
 
 import java.util.Arrays;
-import java.util.Collections;
 
- public class TestDemo {
+public class MinimumNoteCalculator {
 
 
     public static void main(String[] args) {

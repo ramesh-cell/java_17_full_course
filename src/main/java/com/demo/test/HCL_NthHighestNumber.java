@@ -1,6 +1,6 @@
 package com.demo.test;
 
-public class DemoTestt {
+public class HCL_NthHighestNumber {
 
     public static void main(String[] args) {
 

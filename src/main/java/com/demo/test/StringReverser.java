@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class DemoTestV1 {
+public class StringReverser {
 
     public static void main(String[] args) {
       /* // Reverse the String with keeping the spaces intact:
